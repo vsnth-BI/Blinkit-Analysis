@@ -16,7 +16,7 @@ This Power BI project analyzes Blinkit’s sales, order fulfillment, and deliver
 📍 Delivery Performance Heatmaps – Visualizing delivery time patterns across locations.
 📍 Trend Analysis – Monthly order growth, peak sales hours, and seasonal trends.
 ## Tech Stack Used
-Power BI – Data visualization & DAX calculations
+#Power BI – Data visualization & DAX calculations
 
 Excel / SQL – Data preprocessing
 
